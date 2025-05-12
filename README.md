@@ -1,3 +1,5 @@
+This is edited in master branch:
+
 Project title and description - Automated Insurance Claims:
  
 Problem statement addressed : Filing car insurance claims is often a time-consuming and error-prone process that involves manual documentation, delays in damage assessment, and extended waiting periods for claim approval. 
