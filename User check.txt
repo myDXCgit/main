@@ -1,0 +1,4 @@
+Department > 
+
+Check with User List > CHeck in X marked Depart
+Admin> security > Cognos > GMF groups > Members
