@@ -1,4 +1,4 @@
-This is edited in master branch:
+This is edited in Main branch:
 
 Project title and description - Automated Insurance Claims:
  
